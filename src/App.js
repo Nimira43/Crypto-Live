@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1 className='logo bg-mist p-lg '>Crypto Live</h1>
+    <h1 className='logo bg-mist p-md'>Crypto Live</h1>
   )
 }
 

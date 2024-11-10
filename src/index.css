@@ -308,7 +308,7 @@ button:active {
 .m-sm {
   margin: var(--sm) !important;
 }
-.m-sm {
+.m-md {
   margin: var(--md) !important;
 }
 .m-lg {
@@ -317,7 +317,7 @@ button:active {
 .ml-sm {
   margin-left: var(--sm) !important;
 }
-.ml-sm {
+.ml-md {
   margin-left: var(--md) !important;
 }
 .ml-lg {
@@ -326,7 +326,7 @@ button:active {
 .mr-sm {
   margin-right: var(--sm) !important;
 }
-.mr-sm {
+.mr-md {
   margin-right: var(--md) !important;
 }
 .mr-lg {
@@ -344,7 +344,7 @@ button:active {
 .my-sm {
   margin: var(--sm) 0 !important;
 }
-.my-sm {
+.my-md {
   margin: var(--md) 0 !important;
 }
 .my-lg {
