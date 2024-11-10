@@ -258,97 +258,97 @@ button:active {
 /* Padding */
 
 .p-sm {
-  padding: var(--sm);
+  padding: var(--sm) !important;
 }
 .p-md {
-  padding: var(--md);
+  padding: var(--md) !important;
 }
 .p-lg {
-  padding: var(--lg);
+  padding: var(--lg) !important;
 }
 .pl-sm {
-  padding-left: var(--sm);
+  padding-left: var(--sm) !important;
 }
 .pl-md {
-  padding-left: var(--md);
+  padding-left: var(--md) !important;
 }
 .pl-lg {
-  padding-left: var(--lg);
+  padding-left: var(--lg) !important;
 }
 .pr-sm {
-  padding-right: var(--sm);
+  padding-right: var(--sm) !important;
 }
 .pr-md {
-  padding-right: var(--md);
+  padding-right: var(--md) !important;
 }
 .pr-lg {
-  padding-right: var(--lg);
+  padding-right: var(--lg)!important;
 }
 .px-sm {
-  padding: 0 var(--sm);
+  padding: 0 var(--sm) !important;
 }
 .px-md {
-  padding: 0 var(--md);
+  padding: 0 var(--md) !important;
 }
 .px-lg {
-  padding: 0 var(--lg);
+  padding: 0 var(--lg) !important;
 }
 .py-sm {
-  padding: var(--sm) 0;
+  padding: var(--sm) 0 !important;
 }
 .py-md {
-  padding: var(--md) 0;
+  padding: var(--md) 0 !important;
 }
 .py-lg {
-  padding: var(--lg) 0;
+  padding: var(--lg) 0 !important;
 }
 
 /* Margin */
 
 .m-sm {
-  margin: var(--sm);
+  margin: var(--sm) !important;
 }
 .m-sm {
-  margin: var(--md);
+  margin: var(--md) !important;
 }
 .m-lg {
-  margin: var(--lg);
+  margin: var(--lg) !important;
 }
 .ml-sm {
-  margin-left: var(--sm);
+  margin-left: var(--sm) !important;
 }
 .ml-sm {
-  margin-left: var(--md);
+  margin-left: var(--md) !important;
 }
 .ml-lg {
-  margin-left: var(--lg);
+  margin-left: var(--lg) !important;
 }
 .mr-sm {
-  margin-right: var(--sm);
+  margin-right: var(--sm) !important;
 }
 .mr-sm {
-  margin-right: var(--md);
+  margin-right: var(--md) !important;
 }
 .mr-lg {
-  margin-right: var(--lg);
+  margin-right: var(--lg) !important;
 }
 .mx-sm {
-  margin: 0 var(--sm);
+  margin: 0 var(--sm) !important;
 }
 .mx-md {
-  margin: 0 var(--md);
+  margin: 0 var(--md) !important;
 }
 .mx-lg {
-  margin: 0 var(--lg);
+  margin: 0 var(--lg) !important;
 }
 .my-sm {
-  margin: var(--sm) 0;
+  margin: var(--sm) 0 !important;
 }
 .my-sm {
-  margin: var(--md) 0;
+  margin: var(--md) 0 !important;
 }
 .my-lg {
-  margin: var(--lg) 0;
+  margin: var(--lg) 0 !important;
 }
 
 
