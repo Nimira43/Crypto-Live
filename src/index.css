@@ -255,7 +255,21 @@ button:active {
   background-color: transparent; 
 }
 
-/* Padding */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* To Be Reviewed
 
 .p-sm {
   padding: var(--sm) !important;
@@ -303,7 +317,7 @@ button:active {
   padding: var(--lg) 0 !important;
 }
 
-/* Margin */
+Margin 
 
 .m-sm {
   margin: var(--sm) !important;
@@ -351,4 +365,4 @@ button:active {
   margin: var(--lg) 0 !important;
 }
 
-
+*/
