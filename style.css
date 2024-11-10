@@ -1,9 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=League+Spartan:wght@100..900&display=swap');
 
-* {
-  font-family: 'League Spartan', sans-serif;
-  font-weight: 300;
+body {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.6)),
+    url('./images/outer-bg.jpg') no-repeat center;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 300;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+.container {
+  width: 500px;
+  color: #111;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.container img {
+  width: 100%;
+}
+
