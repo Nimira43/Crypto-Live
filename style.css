@@ -19,7 +19,7 @@ body {
 
 .box {
   width: 500px;
-  color: #111;
+  color: #fff;
   border-radius: 5px;
   position: relative;
   overflow: hidden;
@@ -76,7 +76,7 @@ body {
 }
 
 .box h5 {
-  background-color: blue;
+  background-color: #111;
   padding: 3px 10px;
 }
 
