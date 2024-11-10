@@ -101,7 +101,7 @@ p {
   color: var(--light-2);
 }
 .mist {
-  color: var(--mist);
+  color: var(--grey-dk);
 }
 .wisdom {
   color: var(--wisdom);
@@ -125,7 +125,7 @@ p {
   background-color: var(--light-2);
 }
 .bg-mist {
-  background-color: var(--mist);
+  background-color: var(--grey-dk);
 }
 .bg-wisdom {
   background-color: var(--wisdom);
